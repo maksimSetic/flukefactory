@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.23b97e92.css",
+    "main.js": "/static/js/main.a933c5b3.js",
+    "static/js/787.d00d939a.chunk.js": "/static/js/787.d00d939a.chunk.js",
+    "static/media/flukebaby.png": "/static/media/flukebaby.b20f31b3092173ec1923.png",
+    "static/media/people.png": "/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "index.html": "/index.html",
+    "main.23b97e92.css.map": "/static/css/main.23b97e92.css.map",
+    "main.a933c5b3.js.map": "/static/js/main.a933c5b3.js.map",
+    "787.d00d939a.chunk.js.map": "/static/js/787.d00d939a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23b97e92.css",
+    "static/js/main.a933c5b3.js"
+  ]
+}
